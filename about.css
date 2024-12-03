@@ -1,0 +1,74 @@
+
+.ABOUT{
+    background-color: black;
+    display: flex;
+    height: 700px;
+}
+.ABOUT2{
+    color: white;
+    padding-left:50px;
+    padding-top: 30px;
+}
+.ABOUT1>img{
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 40px;
+    height: 600px;
+}
+.ABOUT2>h3{
+    color: rgb(52, 240, 52);
+    font-size: x-large;
+}
+.ABOUT2>h5{
+    color: rgb(175, 173, 173);
+    font-size: larger;
+}
+.ABOUT2>h2{
+    font-size: xx-large;
+}
+.Span{
+    display: flex;
+}
+.span{
+    color: rgb(247, 194, 194);
+}
+.span1{
+    padding-left: 200px;
+}
+.span1>h4{
+    color: green;
+}
+.span1>p{
+    color:rgb(247, 194, 194); 
+}
+.but{
+    display: flex;
+    padding-top: 30px;
+}
+.but2{
+    padding-left: 200px;
+}
+.services{
+    background-color:white;
+    height: 900px;
+}
+.ser{
+    color: black;
+    margin-left: 120px;
+}
+.TEST{
+    height: 700PX;
+
+}
+.TEST1>h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.PLAN2{
+    display: flex;
+    height: 500px;
+    padding-left: 220px;
+    width: 1500px;
+    gap: 50px;
+    padding-top: 120px;
+}
